@@ -4,6 +4,10 @@
     <img src="https://i.postimg.cc/TPTbdfkM/Utool-20250518-154454559.png" alt="demo" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/license/XZY123lol/wzuh?color=blue" alt="License" />
+  <img src="https://img.shields.io/github/stars/XZY123lol/wzuh?style=social" alt="GitHub stars" />
+</p>
 <h1 align="center">This compiler is made for those who don't want to spend 10 years learning C++, it's like Python.</h1>
 
 ## readme in your language:
