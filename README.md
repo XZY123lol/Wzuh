@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/license/XZY123lol/wzuh?color=blue" alt="License" />
   <img src="https://img.shields.io/github/stars/XZY123lol/wzuh?style=social" alt="GitHub stars" />
 </p>
-<h1 align="center">This compiler is made for those who don't want to spend 10 years learning C++, it's like Python.</h1>
+<h1 align="center">Made for those who don't want to spend 10 years learning C++, it's like Python.</h1>
 
 ## readme in your language:
 [Русский 🇷🇺](./readmelang/README.ru.md) (Soon)
@@ -21,10 +21,13 @@
 ## Documentation
 Here are only the main scripts, more scripts here: https://wzuh.github.io/docs
 
+Basic:
 `pik<Hello, world>` - Super simplified text output to the console, made like a print, only a little shorter.
 `set x = 10` - Creates a variable
 
-Mathematical scripts:
+Mathematical:
 `add 2 + 2` - Add a number.
 `sub 70 - 6` - Decreases the number.
 By the way, they also work with variables like this `add x + y`, `sub 20 - years`.
+
+I may update the compiler if you want it of course.
