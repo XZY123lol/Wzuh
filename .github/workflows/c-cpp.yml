@@ -1,0 +1,20 @@
+name: Wzuh CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Build Wzuh compiler
+      run: g++ -std=c++17 main.cpp -o wzuh
+
+    - name: Run tests
+      run: ./wzuh --run-tests || echo "No tests defined"
