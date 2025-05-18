@@ -4,7 +4,7 @@
     <img src="https://i.postimg.cc/TPTbdfkM/Utool-20250518-154454559.png" alt="demo" />
   </a>
 </p>
-This compiler is made for those who don't want to spend 10 years learning C++, it's like Python.
+<h1 align="center">This compiler is made for those who don't want to spend 10 years learning C++, it's like Python.</h1>
 
 ## readme in your language:
 [Русский 🇷🇺](./readmelang/README.ru.md) (Soon)
