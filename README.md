@@ -5,8 +5,11 @@
   </a>
 </p>
 
-readme in your language:
+## readme in your language:
 [Русский 🇷🇺](./readmelang/README.ru.md) (Soon)
+
 [Belorussian 🇧🇾](./readmelang/README.by.md) (Soon)
+
 [Spanish 🇪🇸](./readmelang/README.es.md) (Soon)
+
 (If anything, write in issues,so that i can add your language)
