@@ -30,4 +30,8 @@ Mathematical:
 `sub 70 - 6` - Decreases the number.
 By the way, they also work with variables like this `add x + y`, `sub 20 - years`.
 
+## Files
+`all_in_one_script`(Folder) - You can quickly download in this script `wzuh.cpp`, the functionality is the same.
+`readmelang`(Folder) - This compiler does not apply to scripts, only to the github readme for your chosen language.
+
 I may update the compiler if you want it of course.
