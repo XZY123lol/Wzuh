@@ -19,7 +19,7 @@
 
 (If anything, write in issues,so that i can add your language)
 ## Documentation
-Here are only the main scripts, more scripts here: https://wzuh.github.io/docs
+Here are only the main scripts, more scripts here: https://xzy123lol.github.io/wzuhsite/docs/
 
 Basic:
 `pik<Hello, world>` - Super simplified text output to the console, made like a print, only a little shorter.
@@ -34,4 +34,4 @@ By the way, they also work with variables like this `add x + y`, `sub 20 - years
 `all_in_one_script`(Folder) - You can quickly download in this script `wzuh.cpp`, the functionality is the same.
 `readmelang`(Folder) - This compiler does not apply to scripts, only to the github readme for your chosen language.
 
-I may update the compiler if you want it of course.
+I may update the compiler if you want it of course. Pls give this project star :)
