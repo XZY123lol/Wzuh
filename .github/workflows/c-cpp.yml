@@ -13,8 +13,11 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - name: List files recursively
+      run: ls -lR
+
     - name: Build Wzuh compiler
-      run: g++ -std=c++17 main.cpp -o wzuh
+      run: g++ -std=c++17 all_in_one_script/wzuh.cpp -o wzuh
 
     - name: Run tests
       run: ./wzuh --run-tests || echo "No tests defined"
