@@ -17,7 +17,7 @@
 
 [Español 🇪🇸](./readmelang/README.es.md) (Soon)
 
-(If anything, write in issues,so that i can add your language)
+(If anything, write in discussions, so that i can add your language)
 ## Documentation
 Here are only the main scripts, more scripts here: https://xzy123lol.github.io/wzuhsite/docs/
 
